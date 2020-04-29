@@ -22,6 +22,7 @@ public class ChipotlePlus {
         for (int i = 0; i < burritoNum.length; i++) {
             System.out.printf("Your %s burrito costs $%.2f, and has: ", burritoNum[i], cost+3.00);
 
+
             for (int j = 0; j < toppings.length; j++) {
                 item = toppings[j];
                 double index = (double) (Math.random() * item.length);
