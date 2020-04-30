@@ -1,10 +1,10 @@
 # ChipotlePlus
 
 
-#### Make a variable type double named cost set equal to 3.00
-create a String variable names item
-create an array burittoNum to count the burritos {1st, 2nd, 3rd.....25th}
-Create a multi dimensional array names toppings {
+###### Make a variable type double named cost set equal to 3.00
+###### create a String variable names item
+###### create an array burittoNum to count the burritos {1st, 2nd, 3rd.....25th}
+###### Create a multi dimensional array names toppings {
                 {"white", "brown", "none", "all"}, // rice [0]
                 {"chicken", "steak", "carnidas", "chorizo", "sofritas", "veggie meat", "none", "all"}, //meat [1]
                 {"pinto", "black", "none", "all"}, // beans [2]
@@ -15,7 +15,7 @@ Create a multi dimensional array names toppings {
                 {"yes", "no"}, //queso [7]
                 {"yes", "no"}, //sour scream [8]
           }
-   for loop 
+     for loop 
           print the statement: "Your 'nth' burrito costs $n.00, and has: "
       for
           create variable items set to toppings[j]
